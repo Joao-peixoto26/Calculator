@@ -2,4 +2,4 @@
 A simple calculator with keyboard input.
 
 
-# Calculator![Calculator](https://user-images.githubusercontent.com/100234247/188923221-ed1ccedf-7691-411d-9915-caa86d1211fb.png)
+![A simple calculator with keyboard input](https://user-images.githubusercontent.com/100234247/188924601-e39c4e1c-ea7b-41bc-aaa2-d54ca814e3c9.png)
